@@ -1,6 +1,6 @@
 <?php
 
-namespace alexshin\LaravelCKEditor;
+namespace Alexshin\LaravelCKEditor;
 
 use Illuminate\Support\ServiceProvider;
 
